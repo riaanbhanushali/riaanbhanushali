@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Riaan Bhanushali, a passionate Full Stack Developer and Electronics & Computer Science Engineering student at Shah and Anchor Kutchhi Engineering College (2024–2028).<br><br>💻 Full Stack Developer skilled in Python, JavaScript, Node.js, and Django.<br><br>🤖 Enthusiast in Machine Learning & Database Engineering, with hands-on bootcamp experience.<br><br>📊 Built projects like Medical Insurance Estimation and Inventory Management System showcasing real-world problem solving.<br><br>🌟 Active ACM Cell Organization Head, passionate about teamwork, leadership, and continuous learning.<br>
+# About Me:
+Hi, I’m Riaan Bhanushali, a passionate Full Stack Developer and Electronics & Computer Science Engineering student at Shah and Anchor Kutchhi Engineering College (2024–2028).<br><br> Full Stack Developer skilled in Python, JavaScript, Node.js, and Django.<br><br> Enthusiast in Machine Learning & Database Engineering, with hands-on bootcamp experience.<br><br> Built projects like Medical Insurance Estimation and Inventory Management System showcasing real-world problem solving.<br><br> Active ACM Cell Organization Head, passionate about teamwork, leadership, and continuous learning.<br>
 
 
 ## 🌐 Socials:
